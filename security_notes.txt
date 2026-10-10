@@ -1,0 +1,3 @@
+Validate and sanitize all user input
+Use parameterized queries to prevent SQL injection
+Never hard-code secrets or credentials in source code
